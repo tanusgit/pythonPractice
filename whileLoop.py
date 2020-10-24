@@ -7,7 +7,7 @@ while (i < 10):
       
 def fib(n):
     n1 = 1
-    n2 = 2
+    n2 = 1
     i = 0
     while(i < n):
         print n1
